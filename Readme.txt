@@ -1,0 +1,1 @@
+CppLog is my first private project on Github
